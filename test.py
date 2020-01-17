@@ -1,3 +1,3 @@
 #!/usr/bin/env Python
 
-Print ("HELLO Face")
+Print ("Hello Face")

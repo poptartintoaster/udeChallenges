@@ -4,7 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv/Scripts/next" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (udeChallenges)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 2.7 (nexposeGen1)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
